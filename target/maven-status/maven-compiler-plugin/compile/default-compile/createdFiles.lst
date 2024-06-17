@@ -1,0 +1,11 @@
+com\example\sis\repo\StudentRepository.class
+com\example\sis\repo\AcademicRecordRepository.class
+com\example\sis\serviceimpl\StudentServiceImpl.class
+com\example\sis\entity\Student.class
+com\example\sis\service\StudentService.class
+com\example\sis\controller\AcademicRecordController.class
+com\example\sis\entity\AcademicRecords.class
+com\example\sis\controller\StudentController.class
+com\example\sis\SisApplication.class
+com\example\sis\service\AcademicRecordService.class
+com\example\sis\serviceimpl\AcademicRecordServiceImpl.class

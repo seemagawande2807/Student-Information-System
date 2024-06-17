@@ -1,0 +1,11 @@
+C:\sis\sis\src\main\java\com\example\sis\controller\AcademicRecordController.java
+C:\sis\sis\src\main\java\com\example\sis\controller\StudentController.java
+C:\sis\sis\src\main\java\com\example\sis\entity\AcademicRecords.java
+C:\sis\sis\src\main\java\com\example\sis\entity\Student.java
+C:\sis\sis\src\main\java\com\example\sis\repo\AcademicRecordRepository.java
+C:\sis\sis\src\main\java\com\example\sis\repo\StudentRepository.java
+C:\sis\sis\src\main\java\com\example\sis\service\AcademicRecordService.java
+C:\sis\sis\src\main\java\com\example\sis\service\StudentService.java
+C:\sis\sis\src\main\java\com\example\sis\serviceimpl\AcademicRecordServiceImpl.java
+C:\sis\sis\src\main\java\com\example\sis\serviceimpl\StudentServiceImpl.java
+C:\sis\sis\src\main\java\com\example\sis\SisApplication.java
